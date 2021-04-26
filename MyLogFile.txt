@@ -1,0 +1,21 @@
+21:31:35,750 [TaxiAdmin.Program] ERROR - Error: Not possible among options
+23:03:30,219 [TaxiProject_2._1.Repository.TaxiRepository] ERROR - Could not find file 'C:\c#\NewTaxiProject\TaxiAdmin\bin\Debug\Taxi.txt'.
+10:54:27,178 [TaxiProject_2._1.Repository.DriverCarRepository] ERROR - The method or operation is not implemented.
+17:37:55,000 [TaxiProjectUser.Program] ERROR - Error: String must be exactly one character long.
+17:43:16,700 [TaxiAdmin.Program] ERROR - Error: String must be exactly one character long.
+17:57:24,873 [TaxiAdmin.Program] ERROR - Error: String must be exactly one character long.
+10:46:22,822 [TaxiProject_2._1.Repository.TaxiFileRepository] ERROR - Could not find file 'C:\c#\NewTaxiProject\TaxiProjectUser\bin\Debug\Taxi.txt'.
+10:46:22,901 [TaxiProject_2._1.Repository.DriverBusFileRepository] INFO - Could not find file 'C:\c#\NewTaxiProject\TaxiProjectUser\bin\Debug\Driverbus.txt'.
+10:46:22,935 [TaxiProject_2._1.Repository.DriverCarFileRepository] ERROR - Could not find file 'C:\c#\NewTaxiProject\TaxiProjectUser\bin\Debug\Drivercar.txt'.
+10:48:18,100 [TaxiProject_2._1.Repository.DriverCarFileRepository] ERROR - Could not find file 'C:\c#\NewTaxiProject\TaxiProjectUser\bin\Debug\Drivercar.txt'.
+10:49:40,903 [TaxiProject_2._1.Repository.DriverCarFileRepository] ERROR - Could not find file 'C:\c#\NewTaxiProject\TaxiProjectUser\bin\Debug\Drivercar.txt'.
+10:51:03,457 [TaxiProject_2._1.Repository.DriverCarFileRepository] ERROR - Could not find file 'C:\c#\NewTaxiProject\TaxiProjectUser\bin\Debug\Drivercar.txt'.
+10:53:26,873 [TaxiProject_2._1.Repository.DriverCarFileRepository] ERROR - Could not find file 'C:\c#\NewTaxiProject\TaxiProjectUser\bin\Debug\Drivercar.txt'.
+10:56:01,129 [TaxiProject_2._1.Repository.DriverCarFileRepository] ERROR - Could not find file 'C:\c#\NewTaxiProject\TaxiProjectUser\bin\Debug\Drivercar.txt'.
+10:56:38,447 [TaxiProject_2._1.Repository.DriverCarFileRepository] ERROR - Could not find file 'C:\c#\NewTaxiProject\TaxiProjectUser\bin\Debug\Drivercar.txt'.
+10:57:12,452 [TaxiProject_2._1.Repository.DriverCarFileRepository] ERROR - Could not find file 'C:\c#\NewTaxiProject\TaxiProjectUser\bin\Debug\Drivercar.txt'.
+10:59:01,089 [TaxiProject_2._1.Repository.DriverCarFileRepository] ERROR - Could not find file 'C:\c#\NewTaxiProject\TaxiProjectUser\bin\Debug\Drivercar.txt'.
+10:59:31,061 [TaxiProject_2._1.Repository.DriverCarFileRepository] ERROR - Could not find file 'C:\c#\NewTaxiProject\TaxiProjectUser\bin\Debug\Drivercar.txt'.
+11:00:05,679 [TaxiProject_2._1.Repository.DriverCarFileRepository] ERROR - Could not find file 'C:\c#\NewTaxiProject\TaxiProjectUser\bin\Debug\Drivercar.txt'.
+11:04:16,465 [TaxiProject_2._1.Repository.DriverCarFileRepository] ERROR - Could not find file 'C:\c#\NewTaxiProject\TaxiProjectUser\bin\Debug\Drivercar.txt'.
+17:31:57,082 [TaxiProjectUser.Program] ERROR - Error: String must be exactly one character long.
