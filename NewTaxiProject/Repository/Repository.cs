@@ -89,8 +89,17 @@ namespace TaxiProject_2._1.Repository
 
 		
 		}
-	
+		public bool IsExist(T el) {
 
+
+			return entity.Any(i => i.Equals(el));
+		}
+		public virtual List<T> GroupedByAscending(List<T> L)
+		{
+
+
+			throw new NotImplementedException();
+		}
 
 		public virtual void Add(T en) { throw new NotImplementedException(); }
 

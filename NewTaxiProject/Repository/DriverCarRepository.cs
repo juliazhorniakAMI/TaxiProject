@@ -3,6 +3,7 @@ using TaxiProject_2._1.Models;
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
+using System.Linq;
 
 namespace TaxiProject_2._1.Repository
 {
@@ -36,6 +37,13 @@ namespace TaxiProject_2._1.Repository
 			
 
 
+		}
+
+		public override List<DriverCar> GroupedByAscending(List<DriverCar> drcar)
+		{
+
+
+			return drcar.OrderBy(x => x.Name).ToList();
 		}
 
 		public override void ReadEntity()

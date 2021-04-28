@@ -15,6 +15,7 @@ namespace TaxiProject_2._1.Repository
         void Add(T en);
         void deleteByIndex(int ind);
         void ChangeRateVehicle(int index, int rating);
-    
+        List<T> GroupedByAscending(List<T> l);
+        bool IsExist(T el);
     }
 }

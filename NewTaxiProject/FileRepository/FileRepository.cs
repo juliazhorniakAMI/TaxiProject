@@ -2,6 +2,7 @@
 using TaxiProject_2._1.Models;
 using System.Collections.Generic;
 using System.Text;
+using System.Linq;
 
 
 
@@ -54,7 +55,18 @@ namespace TaxiProject_2._1.Repository
 				}
 			}
 		}
+		public bool IsExist(T el)
+		{
 
+
+			return entity.Any(i => i.Equals(el));
+		}
+		public virtual List<T> GroupedByAscending(List<T> l)
+		{
+
+
+			throw new NotImplementedException();
+		}
 
 		public void deleteByIndex(int ind)
 		{
